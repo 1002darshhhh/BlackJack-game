@@ -15,7 +15,7 @@
 #### CSS
 #### JavaScript
 ## About the Developer
-#### This game was developed by DARSHINI GOWDA H S. You can find more of my projects on my GitHub profile.
+#### This game was developed by DARSHINI GOWDA H S. You can find more of my projects on my GitHub profile by using the link https://github.com/1002darshhhh .
 ## Acknowledgements
 #### Special thanks to Scrimba for making this project possible.
 
